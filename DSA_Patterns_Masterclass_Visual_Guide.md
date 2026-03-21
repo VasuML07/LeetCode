@@ -2119,4 +2119,4 @@ Decode problem → Choose pattern → Solve
 
 ---
 
-*Document generated from DSA Patterns Masterclass Visual Guide*
+
