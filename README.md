@@ -26,7 +26,7 @@ A curated collection of **150 carefully selected LeetCode problems** organized b
 | Pattern | Questions | Completed | Status |
 |---------|-----------|-----------|--------|
 | [Sliding Window](./patterns/sliding-window.md) | 15 | 0 | ⬜ |
-| [Two Pointers](./patterns/two-pointers.md) | 15 | 2 | ⬜ |
+| [Two Pointers](./patterns/two-pointers.md) | 15 | 3 | ⬜ |
 | [Binary Search](./patterns/binary-search.md) | 15 | 0 | ⬜ |
 | [DFS / BFS](./patterns/dfs-bfs.md) | 15 | 0 | ⬜ |
 | [Dynamic Programming](./patterns/dynamic-programming.md) | 15 | 0 | ⬜ |
