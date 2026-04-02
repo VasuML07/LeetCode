@@ -3,8 +3,8 @@
 <div align="center">
 
 ![Total](https://img.shields.io/badge/Total-150-blue?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed-3-red?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-0.02%25-orange?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-4-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-2.66%25-orange?style=for-the-badge)
 
 </div>
 
@@ -26,7 +26,7 @@ A curated collection of **150 carefully selected LeetCode problems** organized b
 | Pattern | Questions | Completed | Status |
 |---------|-----------|-----------|--------|
 | [Sliding Window](./patterns/sliding-window.md) | 15 | 0 | ⬜ |
-| [Two Pointers](./patterns/two-pointers.md) | 15 | 3 | ⬜ |
+| [Two Pointers](./patterns/two-pointers.md) | 15 | 4 | ⬜ |
 | [Binary Search](./patterns/binary-search.md) | 15 | 0 | ⬜ |
 | [DFS / BFS](./patterns/dfs-bfs.md) | 15 | 0 | ⬜ |
 | [Dynamic Programming](./patterns/dynamic-programming.md) | 15 | 0 | ⬜ |
