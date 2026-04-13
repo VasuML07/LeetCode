@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Total](https://img.shields.io/badge/Total-150-blue?style=for-the-badge)
-![Completed](https://img.shields.io/badge/Completed--7red?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-7-red?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Progress-4.66%25-orange?style=for-the-badge)
 
 </div>
